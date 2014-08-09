@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "blink": 0,
+        "bluetoothvibe": 2,
+        "hourlyvibe": 3,
+        "invert": 1
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "mreed",
+    "longName": "no graphics 3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_14",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9: ]",
+                "file": "fonts/FreeSans.ttf",
+                "name": "FONT_FREESANS_46",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "no graphics 3",
+    "uuid": "0fcfde49-2ce0-4c55-b155-02c012d6d9dc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
